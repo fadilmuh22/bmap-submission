@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">BMAP Submission</string>
+
+    <string name="about">About</string>
+    <string name="description">Description</string>
+    <string name="cats_breeds">Cat breeds</string>
+    <string name="cats_breeds_details">Cat breeds details</string>
+
+    <string name="about_photo">https://avatars.githubusercontent.com/u/49378500?v=4</string>
+    <string name="about_name">Muhamad Fadil</string>
+    <string name="about_email">fadilmuh2002@gmail.com</string>
+
+    <string-array name="cat_breeds">
+        <item>Abyssinian</item>
+        <item>Aegean</item>
+        <item>American Bobtail</item>
+        <item>American Curl</item>
+        <item>American Shorthair</item>
+        <item>American Wirehair</item>
+        <item>Arabian Mau</item>
+        <item>Australian Mist</item>
+        <item>Balinese</item>
+        <item>Bambino</item>
+        <item>Bengal</item>
+        <item>Birman</item>
+        <item>Bombay</item>
+        <item>British Longhair</item>
+        <item>British Shorthair</item>
+    </string-array>
+
+    <string-array name="cat_photos">
+        <item>https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/hBXicehMA.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/xnsqonbjW.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/JFPROfGtQ.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/8D--jCd21.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/k71ULYfRr.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/_6x-3TiCA.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/13MkvUreZ.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/5AdhMjeEu.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/O3btzLlsO.png</item>
+        <item>https://cdn2.thecatapi.com/images/HOrX5gwLS.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/5iYq9NmT1.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/7isAO4Cav.jpg</item>
+        <item>https://cdn2.thecatapi.com/images/s4wQfYoEk.jpg</item>
+    </string-array>
+
+    <string-array name="cat_descriptions">
+        <item>The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.</item>
+        <item>Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding.</item>
+        <item>American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance.</item>
+        <item>Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression.</item>
+        <item>The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.</item>
+        <item>The American Wirehair tends to be a calm and tolerant cat who takes life as it comes.</item>
+        <item>Arabian Mau cats are social and energetic. Due to their energy levels, these cats do best in homes where their owners will be able to provide them with plenty of playtime.</item>
+        <item>The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games.</item>
+        <item>Balinese are curious, outgoing, intelligent cats with excellent communication skills.</item>
+        <item>The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds.</item>
+        <item>Bengals are a lot of fun to live with, but they\'re definitely not the cat for everyone, or for first-time cat owners.</item>
+        <item>The Birman is a docile, quiet cat who loves people and will follow them from room to room.</item>
+        <item>The the golden eyes and the shiny black coat of the Bombay is absolutely striking.</item>
+        <item>The British Longhair is a very laid-back relaxed cat, often perceived to be very independent.</item>
+        <item>The British Shorthair is a very pleasant cat to have as a companion, and is easy going and placid.</item>
+    </string-array>
+
+    <string-array name="cat_temperaments">
+        <item>Active, Energetic, Independent, Intelligent, Gentle</item>
+        <item>Affectionate, Social, Intelligent, Playful, Active</item>
+        <item>Intelligent, Interactive, Lively, Playful, Sensitive</item>
+        <item>Affectionate, Curious, Intelligent, Interactive, Lively, Playful, Social</item>
+        <item>Active, Curious, Easy Going, Playful, Calm</item>
+        <item>Affectionate, Curious, Gentle, Intelligent, Interactive, Lively, Loyal, Playful, Sensible, Social</item>
+        <item>Affectionate, Agile, Curious, Independent, Playful, Loyal</item>
+        <item>Lively, Social, Fun-loving, Relaxed, Affectionate</item>
+        <item>Affectionate, Intelligent, Playful</item>
+        <item>Affectionate, Lively, Friendly, Intelligent</item>
+        <item>Alert, Agile, Energetic, Demanding, Intelligent</item>
+        <item>Affectionate, Active, Gentle, Social</item>
+        <item>Affectionate, Dependent, Gentle, Intelligent, Playful</item>
+        <item>Affectionate, Easy Going, Independent, Intelligent, Loyal, Social</item>
+        <item>Affectionate, Easy Going, Gentle, Loyal, Patient, calm</item>
+    </string-array>
+
+    <string-array name="cat_origins">
+        <item>Egypt</item>
+        <item>Greece</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United Arab Emirates</item>
+        <item>Australia</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>France</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>United Kingdom</item>
+    </string-array>
+
+    <string-array name="cat_vetstreet_urls">
+        <item>http://www.vetstreet.com/cats/abyssinian</item>
+        <item>http://www.vetstreet.com/cats/aegean-cat</item>
+        <item>http://www.vetstreet.com/cats/american-bobtail</item>
+        <item>http://www.vetstreet.com/cats/american-curl</item>
+        <item>http://www.vetstreet.com/cats/american-shorthair</item>
+        <item>http://www.vetstreet.com/cats/american-wirehair</item>
+        <item>https://vcahospitals.com/know-your-pet/cat-breeds/arabian-mau</item> <!-- Using vcahospitals_url -->
+        <item>http://www.vetstreet.com/cats/australian-mist</item>
+        <item>http://www.vetstreet.com/cats/balinese</item>
+        <item>http://www.vetstreet.com/cats/bambino</item>
+        <item>http://www.vetstreet.com/cats/bengal</item>
+        <item>http://www.vetstreet.com/cats/birman</item>
+        <item>http://www.vetstreet.com/cats/bombay</item>
+        <item>http://www.vetstreet.com/cats/british-longhair</item>
+        <item>http://www.vetstreet.com/cats/british-shorthair</item>
+    </string-array>
+
+    <string-array name="cat_country_flags">
+        <item>🇪🇬</item>
+        <item>🇬🇷</item>
+        <item>🇺🇸</item>
+        <item>🇺🇸</item>
+        <item>🇺🇸</item>
+        <item>🇺🇸</item>
+        <item>🇦🇪</item>
+        <item>🇦🇺</item>
+        <item>🇺🇸</item>
+        <item>🇺🇸</item>
+        <item>🇺🇸</item>
+        <item>🇫🇷</item>
+        <item>🇺🇸</item>
+        <item>🇬🇧</item>
+        <item>🇬🇧</item>
+    </string-array>
+</resources>
